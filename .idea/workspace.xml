@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvanceJava/AdvanceJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/loops/FirstLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/variables/BooleanDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/variables/FloatingDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/variables/IntegerDataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_AndShortCircuitAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_BitwiseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_BooleanLogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_BooleanLogicalOperatorWithIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_Increment_decrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_Modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/operators/Operators_RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/variables/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +42,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.BooleanDataType">
-    <configuration name="BooleanDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.BooleanDataType" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="operators" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Operators_AndShortCircuitAnd">
+    <configuration name="Operators_AndShortCircuitAnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators_AndShortCircuitAnd" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +63,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.IntegerDataType" />
+    <configuration name="Operators_BooleanLogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators_BooleanLogicalOperator" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators_BooleanLogicalOperatorWithIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators_BooleanLogicalOperatorWithIf" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators_Increment_decrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators_Increment_decrement" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators_RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators_RelationalOperator" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BooleanDataType" />
-        <item itemvalue="Application.IntegerDataType" />
+        <item itemvalue="Application.Operators_AndShortCircuitAnd" />
+        <item itemvalue="Application.Operators_BooleanLogicalOperatorWithIf" />
+        <item itemvalue="Application.Operators_BooleanLogicalOperator" />
+        <item itemvalue="Application.Operators_RelationalOperator" />
+        <item itemvalue="Application.Operators_Increment_decrement" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +136,8 @@
       <option name="presentableId" value="Default" />
       <updated>1580352681245</updated>
       <workItem from="1580352686770" duration="880000" />
-      <workItem from="1580522811744" duration="3847000" />
+      <workItem from="1580522811744" duration="4042000" />
+      <workItem from="1580781363665" duration="4815000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -113,34 +165,34 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="177" key="GridCell.Tab.0.bottom" timestamp="1580526562564">
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom" timestamp="1580786038340">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="177" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580526562564" />
-    <state width="1878" height="177" key="GridCell.Tab.0.center" timestamp="1580526562564">
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786038340" />
+    <state width="1878" height="260" key="GridCell.Tab.0.center" timestamp="1580786038336">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="177" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580526562564" />
-    <state width="1878" height="177" key="GridCell.Tab.0.left" timestamp="1580526562563">
+    <state width="1878" height="260" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786038336" />
+    <state width="1878" height="260" key="GridCell.Tab.0.left" timestamp="1580786038334">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="177" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580526562563" />
-    <state width="1878" height="177" key="GridCell.Tab.0.right" timestamp="1580526562564">
+    <state width="1878" height="260" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786038334" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right" timestamp="1580786038338">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="177" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580526562564" />
-    <state x="1909" y="190" key="SettingsEditor" timestamp="1580522860576">
+    <state width="1878" height="260" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786038338" />
+    <state x="1909" y="190" key="SettingsEditor" timestamp="1580786228982">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580522860576" />
+    <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786228982" />
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2" timestamp="1580353145699">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="2130" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1580522829591">
+    <state x="2130" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1580781374937">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="2130" y="300" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580522829591" />
+    <state x="2130" y="300" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580781374937" />
     <state x="1882" y="92" key="new project wizard" timestamp="1580522961755">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
