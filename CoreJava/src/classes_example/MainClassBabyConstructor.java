@@ -6,6 +6,7 @@ package classes_example;
 public class MainClassBabyConstructor {
     public static void main(String[] args) {
         Baby tony = new Baby("Tony",1);
+        tony.setColor(4);
         //...
         System.out.println(tony.getAge());
         System.out.println(tony.getName());

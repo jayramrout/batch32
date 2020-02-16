@@ -1,18 +1,38 @@
 package classes_example;
 
 public class Baby {
+    private String ssn;
+
     private String name;
     private String citizenship;
     private int age;
     private int height;
 
+    public int getColor() {
+        return color;
+    }
+
+    public void setColor(int color) {
+        this.color = color;
+    }
+
+    private int color;
+
     // Constructor name is same as class name
     // it does not have any return type.
+    public Baby(){}
 
     public Baby(String name, int age){
         this.age = age;
         this.name = name;
     }
+
+    public Baby(String name, int age, int colorCode){
+        this.age = age;
+        this.name = name;
+        this.color = colorCode;
+    }
+
     // Overloaded the constructor
     public Baby(String name, int age, String citizenship){
         this.age = age;

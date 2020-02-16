@@ -5,9 +5,6 @@ public class Dog {
      * Private variable can only be accessed inside the class itself
      */
     private String breed; // null
-
-
-
     private String color;
     private int age; // zero
 //    String name; // this can be accessed within the package
@@ -52,5 +49,21 @@ public class Dog {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.age = 7;
+    }
+
+    public void runningSpeed(){
+        if(breed != null && breed.equals("Lab")) {
+            System.out.println("Running speed is pretty good");
+        }else {
+            System.out.println("Running speed is OK");
+        }
+    }
+
+    public void swimming() {
+        if(breed != null && breed.equals("Lab")) {
+            System.out.println("It know how to swim");
+        }else {
+            System.out.println("No Swimming...");
+        }
     }
 }
