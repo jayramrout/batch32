@@ -18,7 +18,7 @@ public class MethodExample {
 //        calc.printResult(c,d);
 
 
-        int result = calc.add(a, b);
+        int result = calc.add(100, b);
         System.out.println("Addition is "+ result);
         result = c - result;
         System.out.println("2nd Result "+ result);

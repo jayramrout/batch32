@@ -7,4 +7,5 @@ public class Box {
     String shape;
 
     Gift gift;
+
 }
