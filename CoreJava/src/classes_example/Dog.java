@@ -49,6 +49,7 @@ public class Dog {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.age = 7;
+
     }
 
     public void runningSpeed(){
