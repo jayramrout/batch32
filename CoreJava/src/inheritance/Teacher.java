@@ -4,9 +4,10 @@ public class Teacher {
     private int id;
     private String school;
     private String subject;
+    private boolean isMale;
 
-    public void incomingTime(){
-
+    public void incomingTime() {
+        System.out.println(subject+ " Your general time is 9 am mon---friday");
     }
 
     public int getId() {
@@ -31,5 +32,17 @@ public class Teacher {
 
     public void setSubject(String subject) {
         this.subject = subject;
+    }
+
+    public boolean isMale() {
+        return isMale;
+    }
+
+    public void setMale(boolean male) {
+        isMale = male;
+    }
+
+    public void parkingSpot(){
+        System.out.println(subject + "You park in the basement of the school..");
     }
 }

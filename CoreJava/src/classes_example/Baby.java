@@ -90,4 +90,10 @@ public class Baby {
         if(height !=0)
             System.out.println("Baby Height = "+ height);
     }
+
+    public static void main(String[] args) {
+        Baby baby = new Baby();
+        Baby baby1 = new Baby("Peter",2);
+
+    }
 }
