@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverOverride2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/AlgebraTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/CalculusTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverAbstract_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverAbstract_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverInterfaces_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverObjectClass_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/GeometricTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/SocialTeacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/classes_example/Baby.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/classes_example/Baby.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverOverride2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverOverride2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/DriverSuperClassReference_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/MathTeacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/PhysicsTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/PhysicsTeacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreJava/src/inheritance/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/inheritance/Teacher.java" afterDir="false" />
     </list>
@@ -54,7 +62,33 @@
       <recent name="controlstatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DriverOverride2">
+  <component name="RunManager" selected="Application.DriverObjectClass_1">
+    <configuration name="DriverAbstract_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.DriverAbstract_1" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverObjectClass_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.DriverObjectClass_1" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DriverOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.DriverOverride" />
       <module name="CoreJava" />
@@ -81,32 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DriverSuperClassReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.DriverSuperClassReference" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverSuperClassReference_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.DriverSuperClassReference_3" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DriverSuperClassReference_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.DriverSuperClassReference_4" />
       <module name="CoreJava" />
@@ -122,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DriverObjectClass_1" />
+        <item itemvalue="Application.DriverAbstract_1" />
         <item itemvalue="Application.DriverOverride2" />
         <item itemvalue="Application.DriverOverride" />
         <item itemvalue="Application.DriverSuperClassReference_4" />
-        <item itemvalue="Application.DriverSuperClassReference_3" />
-        <item itemvalue="Application.DriverSuperClassReference" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +158,7 @@
       <workItem from="1581991266585" duration="5702000" />
       <workItem from="1582163408873" duration="5808000" />
       <workItem from="1582300730087" duration="499000" />
-      <workItem from="1582336934780" duration="4325000" />
+      <workItem from="1582336934780" duration="8926000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -194,34 +202,34 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="270" key="GridCell.Tab.0.bottom" timestamp="1582341312867">
+    <state width="1878" height="441" key="GridCell.Tab.0.bottom" timestamp="1582599307257">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582300694526" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="201" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580959392609" />
-    <state width="1878" height="270" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582341312867" />
-    <state width="1878" height="270" key="GridCell.Tab.0.center" timestamp="1582341312866">
+    <state width="1878" height="441" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582599307257" />
+    <state width="1878" height="441" key="GridCell.Tab.0.center" timestamp="1582599307256">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1582300694525" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="201" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580959392608" />
-    <state width="1878" height="270" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582341312866" />
-    <state width="1878" height="270" key="GridCell.Tab.0.left" timestamp="1582341312865">
+    <state width="1878" height="441" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582599307256" />
+    <state width="1878" height="441" key="GridCell.Tab.0.left" timestamp="1582599307256">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1582300694525" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="201" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580959392607" />
-    <state width="1878" height="270" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582341312865" />
-    <state width="1878" height="270" key="GridCell.Tab.0.right" timestamp="1582341312866">
+    <state width="1878" height="441" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582599307256" />
+    <state width="1878" height="441" key="GridCell.Tab.0.right" timestamp="1582599307257">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1582300694526" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="201" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580959392608" />
-    <state width="1878" height="270" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582341312866" />
+    <state width="1878" height="441" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582599307257" />
     <state width="1878" height="211" key="GridCell.Tab.1.bottom" timestamp="1582341269527">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -389,12 +397,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/CoreJava/src/inheritance/MathTeacher.java</url>
-          <line>21</line>
+          <line>22</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/CoreJava/src/inheritance/Teacher.java</url>
-          <line>9</line>
+          <line>19</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

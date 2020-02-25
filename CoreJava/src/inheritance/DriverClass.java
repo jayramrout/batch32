@@ -9,10 +9,10 @@ public class DriverClass {
 
         System.out.println(physicsTeacher.equals(""));
 
-        MathTeacher teacher = new MathTeacher();
+        /*MathTeacher teacher = new MathTeacher();
         teacher.setId(100);
         teacher.setMale(Boolean.TRUE);
-        teacher.setSchool("ABC School");
+        teacher.setSchool("ABC School");*/
 
 
     }

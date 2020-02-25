@@ -1,9 +1,10 @@
 package inheritance;
 
 
-public class MathTeacher extends Teacher {
+public abstract class MathTeacher extends Teacher {
     private String phdDetails;
 
+    public abstract void preCalculus();
     public String getPhdDetails() {
         return phdDetails;
     }
@@ -20,5 +21,11 @@ public class MathTeacher extends Teacher {
     @Override
     public void incomingTime(){
         System.out.println(getSubject()+ " Your general time is 12:30 pm mon---thursday");
+    }
+
+    @Override
+    public void teachingStyle() {
+//        super.teachingStyle();
+        System.out.println("I use mainly algorithms to teach my students...");
     }
 }

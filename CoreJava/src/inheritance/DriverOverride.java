@@ -11,11 +11,11 @@ public class DriverOverride {
         teacher.parkingSpot();
         teacher.incomingTime();
 
-        teacher = new MathTeacher();
+        /*teacher = new MathTeacher();
         teacher.setId(20);
         teacher.setSubject("Math");
         teacher.parkingSpot();
-        teacher.incomingTime();
+        teacher.incomingTime();*/
 
 
     }

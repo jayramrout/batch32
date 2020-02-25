@@ -19,7 +19,7 @@ public class DriverOverride2 {
         teacher.parkingSpot();
         teacher.incomingTime(); // run time polymorphism
 */
-        teacher = new MathTeacher() {
+        /*teacher = new MathTeacher() {
             @Override
             public void parkingSpot() {
                 System.out.println("Parking spot is just in front of your class");
@@ -29,11 +29,11 @@ public class DriverOverride2 {
             public void incomingTime() {
                 System.out.println("You can come anytime you want...");
             }
-        };
-        teacher.setId(01);
+        };*/
+        /*teacher.setId(01);
         teacher.setSubject("Phd Math teaching");
         teacher.parkingSpot();
-        teacher.incomingTime(); // run time polymorphism
+        teacher.incomingTime(); */// run time polymorphism
 
     }
 

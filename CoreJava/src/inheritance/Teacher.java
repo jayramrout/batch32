@@ -1,10 +1,20 @@
 package inheritance;
 
-public class Teacher {
+public abstract class Teacher extends Object {
     private int id;
     private String school;
     private String subject;
     private boolean isMale;
+
+    private String hello;
+
+    /*public void teachingStyle(){
+    }*/
+
+    /**
+     * You can have abstract method under a abstract class itself..
+     */
+    public abstract void teachingStyle();
 
     public void incomingTime() {
         System.out.println(subject+ " Your general time is 9 am mon---friday");

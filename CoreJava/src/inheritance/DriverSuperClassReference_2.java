@@ -11,12 +11,12 @@ public class DriverSuperClassReference_2 {
         physicsTeacher.setSubject("Physics");
         driver.printDetails(physicsTeacher);
 
-        Teacher mathTeacher = new MathTeacher();
+        /*Teacher mathTeacher = new MathTeacher();
         mathTeacher.setId(100);
         mathTeacher.setMale(Boolean.TRUE);
         mathTeacher.setSchool("ABC School");
         mathTeacher.setSubject("Math");
-       driver.printDetails(mathTeacher);
+       driver.printDetails(mathTeacher);*/
 
     }
 

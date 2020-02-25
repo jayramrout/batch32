@@ -20,13 +20,13 @@ public class DriverSuperClassReference {
 //        PhysicsTeacher cast = (PhysicsTeacher) physicsTeacher;
 //        cast.setPhysicsTeachingExperience("4 Years Exp");
 
-        MathTeacher mathTeacher = new MathTeacher();
+       /* MathTeacher mathTeacher = new MathTeacher();
         mathTeacher.setId(100);
         mathTeacher.setMale(Boolean.TRUE);
         mathTeacher.setSchool("ABC School");
         mathTeacher.setSubject("Math");
 //        driver.printMathDetails(mathTeacher);
-       driver.printDetails(mathTeacher);
+       driver.printDetails(mathTeacher);*/
 
 //        mathTeacher.mathQuiz();
 
