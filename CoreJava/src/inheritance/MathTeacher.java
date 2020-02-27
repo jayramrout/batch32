@@ -13,7 +13,7 @@ public abstract class MathTeacher extends Teacher {
         this.phdDetails = phdDetails;
     }
 
-    public void mathQuiz(){
+    public void mathQuiz() {
         System.out.println("Lets start match quiz...");
     }
 
