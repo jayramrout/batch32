@@ -1,5 +1,5 @@
 package classes_example;
-
+    // POJO : Plain Old Java Object
 public class Baby {
     private String ssn;
 

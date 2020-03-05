@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AdvanceJava/AdvanceJava.iml" filepath="$PROJECT_DIR$/AdvanceJava/AdvanceJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientModule/ClientModule.iml" filepath="$PROJECT_DIR$/ClientModule/ClientModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputerClient/ComputerClient.iml" filepath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pricing/Pricing.iml" filepath="$PROJECT_DIR$/Pricing/Pricing.iml" />
     </modules>
   </component>
 </project>

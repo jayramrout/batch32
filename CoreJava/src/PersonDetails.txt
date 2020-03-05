@@ -1,0 +1,11 @@
+Raju    23  Computers
+Bob     20  Politics
+Steve   43  CEO
+
+
+Person()
+    name
+    age
+    occupation
+
+sout : print details...

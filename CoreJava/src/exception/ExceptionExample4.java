@@ -16,7 +16,7 @@ public class ExceptionExample4 {
         int secondValue = scanner.nextInt(); // 5 , 2
 
         int firstResult;
-        firstResult = MathUtil.computeFirstResult(firstValue, secondValue, intValues);
+//        firstResult = MathUtil.computeFirstResult2(firstValue, secondValue, intValues);
 
        try{
             firstResult = MathUtil.computeFirstResult(firstValue, secondValue, intValues);
@@ -35,6 +35,8 @@ public class ExceptionExample4 {
         int finalResult = thirdValue + firstResult; // 10
 
         System.out.println("Wow You are at the end of the formula and your result is "+ finalResult);
+
+
     }
 
 

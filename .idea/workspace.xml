@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accountant/Accountant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvanceJava/src/com/tutorial/jrout/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientModule/ClientModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientModule/src/com/tutorial/jrout/client/AccountantClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer/Computer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer/src/main/java/jrout/tutorial/computing/ComputerHardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerClient/src/main/java/jrout/tutorial/client/ComputerDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/PersonDetails.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_CatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_CatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_UserDefinedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_usingMethod4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/MyIllegalArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ZeroArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/CharacterStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/CharacterStreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/FileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pricing/Pricing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pricing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pricing/src/main/java/jrout/pricing/PriceTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/classes_example/Baby.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/classes_example/Baby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/exception/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/exception/MathUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,36 +50,43 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1X63O9GXrhWcKg6IYfG2mXak4aY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io" />
+      <recent name="" />
       <recent name="exception" />
       <recent name="inheritance" />
       <recent name="misc" />
-      <recent name="function" />
-      <recent name="classes_example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionExample4">
-    <configuration name="DriverObjectClass_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.DriverObjectClass_1" />
-      <module name="CoreJava" />
+  <component name="RunManager" selected="Application.CharacterStreamExample">
+    <configuration name="AccountantClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorial.jrout.client.AccountantClient" />
+      <module name="ClientModule" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="com.tutorial.jrout.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionExample" />
+    <configuration name="CharacterStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.CharacterStreamExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionExample2" />
-      <module name="CoreJava" />
+    <configuration name="ComputerDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.client.ComputerDriver" />
+      <module name="ComputerClient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
+          <option name="PATTERN" value="jrout.tutorial.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionExample4" />
+    <configuration name="FileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.FileExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample_usingMethod3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionExample_usingMethod3" />
+    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.ScannerExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionExample4" />
-        <item itemvalue="Application.ExceptionExample_usingMethod3" />
-        <item itemvalue="Application.ExceptionExample2" />
-        <item itemvalue="Application.ExceptionExample" />
-        <item itemvalue="Application.DriverObjectClass_1" />
+        <item itemvalue="Application.CharacterStreamExample" />
+        <item itemvalue="Application.ScannerExample" />
+        <item itemvalue="Application.FileExample" />
+        <item itemvalue="Application.ComputerDriver" />
+        <item itemvalue="Application.AccountantClient" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +177,10 @@
       <workItem from="1582163408873" duration="5808000" />
       <workItem from="1582300730087" duration="499000" />
       <workItem from="1582336934780" duration="15373000" />
+      <workItem from="1582941600917" duration="4681000" />
+      <workItem from="1583201320425" duration="337000" />
+      <workItem from="1583201983538" duration="405000" />
+      <workItem from="1583373461222" duration="5640000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -156,18 +196,27 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updates" />
     <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1582599802872">
+    <state x="1990" y="199" key="#Project_Structure" timestamp="1583376782785">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582599802872" />
+    <state x="1990" y="199" key="#Project_Structure/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583376782785" />
+    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1583376550496">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583376550496" />
     <state x="2077" y="213" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580955327330">
       <screen x="1440" y="23" width="1920" height="1017" />
     </state>
     <state x="2077" y="213" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955327330" />
+    <state x="2027" y="484" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582944285427">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2027" y="484" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582944285427" />
     <state x="2200" y="237" key="#xdebugger.evaluate" timestamp="1580955415105">
       <screen x="1440" y="23" width="1920" height="1017" />
     </state>
@@ -184,73 +233,77 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="257" key="GridCell.Tab.0.bottom" timestamp="1582773841200">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="183" key="GridCell.Tab.0.bottom" timestamp="1583378794989">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582300694526" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="257" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841200" />
-    <state width="1878" height="313" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582772836249" />
-    <state width="1878" height="257" key="GridCell.Tab.0.center" timestamp="1582773841200">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="183" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794989" />
+    <state width="1878" height="183" key="GridCell.Tab.0.center" timestamp="1583378794988">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1582300694525" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="257" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841200" />
-    <state width="1878" height="313" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582772836248" />
-    <state width="1878" height="257" key="GridCell.Tab.0.left" timestamp="1582773841199">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="183" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794988" />
+    <state width="1878" height="183" key="GridCell.Tab.0.left" timestamp="1583378794988">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1582300694525" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="257" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841199" />
-    <state width="1878" height="313" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582772836248" />
-    <state width="1878" height="257" key="GridCell.Tab.0.right" timestamp="1582773841200">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="183" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794988" />
+    <state width="1878" height="183" key="GridCell.Tab.0.right" timestamp="1583378794989">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1582300694526" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="257" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841200" />
-    <state width="1878" height="313" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582772836248" />
-    <state width="1878" height="187" key="GridCell.Tab.1.bottom" timestamp="1582773841197">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="183" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794989" />
+    <state width="1878" height="284" key="GridCell.Tab.1.bottom" timestamp="1582946377247">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="283" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582152244400" />
     <state width="1878" height="187" key="GridCell.Tab.1.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="187" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582771797106" />
-    <state width="1878" height="187" key="GridCell.Tab.1.center" timestamp="1582773841197">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="284" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582946377247" />
+    <state width="1878" height="284" key="GridCell.Tab.1.center" timestamp="1582946377247">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="283" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1582152244399" />
     <state width="1878" height="187" key="GridCell.Tab.1.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="187" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582771797105" />
-    <state width="1878" height="187" key="GridCell.Tab.1.left" timestamp="1582773841196">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="284" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582946377247" />
+    <state width="1878" height="284" key="GridCell.Tab.1.left" timestamp="1582946377246">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="283" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1582152244399" />
     <state width="1878" height="187" key="GridCell.Tab.1.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841196" />
-    <state width="1878" height="187" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582771797104" />
-    <state width="1878" height="187" key="GridCell.Tab.1.right" timestamp="1582773841197">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="284" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582946377246" />
+    <state width="1878" height="284" key="GridCell.Tab.1.right" timestamp="1582946377247">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="283" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1582152244400" />
     <state width="1878" height="187" key="GridCell.Tab.1.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="187" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582771797105" />
+    <state width="1878" height="284" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582946377247" />
     <state x="1909" y="184" key="SettingsEditor" timestamp="1580955096149">
       <screen x="1440" y="23" width="1920" height="1017" />
     </state>
     <state x="1909" y="184" key="SettingsEditor/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955096149" />
     <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786228982" />
+    <state width="538" height="445" key="SwitcherDM" timestamp="1582944018241">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="538" height="445" key="SwitcherDM/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582944018241" />
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2" timestamp="1580353145699">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="518" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1582336938431">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1583373462457">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1582309615224" />
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1582336938431" />
-    <state x="2130" y="300" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582163442883" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583373462457" />
     <state x="2080" y="187" width="639" height="729" key="find.popup" timestamp="1581560129876">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -259,15 +312,15 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="600" height="424" key="javadoc.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1581563865263" />
-    <state x="1882" y="92" key="new project wizard" timestamp="1580522961755">
+    <state x="1882" y="92" key="new project wizard" timestamp="1583376471449">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580522961755" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1582770929253">
+    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583376471449" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1582942201492">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2065" y="248" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955058307" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582770929253" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582942201492" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -406,6 +459,26 @@
           <url>file://$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample2.java</url>
           <line>22</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_usingMethod4.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_usingMethod4.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_usingMethod4.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_usingMethod4.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
