@@ -2,37 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Accountant/Accountant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvanceJava/src/com/tutorial/jrout/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientModule/ClientModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClientModule/src/com/tutorial/jrout/client/AccountantClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computer/Computer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computer/src/main/java/jrout/tutorial/computing/ComputerHardware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComputerClient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComputerClient/src/main/java/jrout/tutorial/client/ComputerDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/PersonDetails.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_CatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_CatchFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_UserDefinedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample_usingMethod4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/MyIllegalArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/exception/ZeroArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/CharacterStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/CharacterStreamExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/FileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/io/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pricing/Pricing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pricing/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pricing/src/main/java/jrout/pricing/PriceTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/FirstThreadDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/FirstThreadDriver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/SecondThreadDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/SecondThreadDriver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/threads/WaitNotifyExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/classes_example/Baby.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/classes_example/Baby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/exception/ExceptionExample4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/exception/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/exception/MathUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,33 +50,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="threads" />
       <recent name="io" />
       <recent name="" />
       <recent name="exception" />
       <recent name="inheritance" />
-      <recent name="misc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharacterStreamExample">
-    <configuration name="AccountantClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tutorial.jrout.client.AccountantClient" />
-      <module name="ClientModule" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tutorial.jrout.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharacterStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.CharacterStreamExample" />
+  <component name="RunManager" selected="Application.SecondThreadDriver2">
+    <configuration name="FirstThreadDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.FirstThreadDriver" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,25 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.client.ComputerDriver" />
-      <module name="ComputerClient" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jrout.tutorial.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.FileExample" />
+    <configuration name="FirstThreadDriver2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.FirstThreadDriver2" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +84,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.ScannerExample" />
+    <configuration name="SecondThreadDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.SecondThreadDriver" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondThreadDriver2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.SecondThreadDriver2" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.WaitNotifyExample" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharacterStreamExample" />
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.FileExample" />
-        <item itemvalue="Application.ComputerDriver" />
-        <item itemvalue="Application.AccountantClient" />
+        <item itemvalue="Application.SecondThreadDriver2" />
+        <item itemvalue="Application.FirstThreadDriver2" />
+        <item itemvalue="Application.WaitNotifyExample" />
+        <item itemvalue="Application.SecondThreadDriver" />
+        <item itemvalue="Application.FirstThreadDriver" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +157,8 @@
       <workItem from="1582941600917" duration="4681000" />
       <workItem from="1583201320425" duration="337000" />
       <workItem from="1583201983538" duration="405000" />
-      <workItem from="1583373461222" duration="5640000" />
+      <workItem from="1583373461222" duration="5734000" />
+      <workItem from="1583545913037" duration="5360000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -233,34 +211,34 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="183" key="GridCell.Tab.0.bottom" timestamp="1583378794989">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1583552358501">
+      <screen x="1440" y="23" width="1920" height="1017" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582300694526" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
-    <state width="1878" height="257" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841200" />
-    <state width="1878" height="183" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794989" />
-    <state width="1878" height="183" key="GridCell.Tab.0.center" timestamp="1583378794988">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552358501" />
+    <state width="1878" height="413" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583550317075" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1583552358500">
+      <screen x="1440" y="23" width="1920" height="1017" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1582300694525" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
-    <state width="1878" height="257" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841200" />
-    <state width="1878" height="183" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794988" />
-    <state width="1878" height="183" key="GridCell.Tab.0.left" timestamp="1583378794988">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552358500" />
+    <state width="1878" height="413" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583550317074" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1583552358500">
+      <screen x="1440" y="23" width="1920" height="1017" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1582300694525" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
-    <state width="1878" height="257" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841199" />
-    <state width="1878" height="183" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794988" />
-    <state width="1878" height="183" key="GridCell.Tab.0.right" timestamp="1583378794989">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552358500" />
+    <state width="1878" height="413" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583550317073" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1583552358501">
+      <screen x="1440" y="23" width="1920" height="1017" />
     </state>
     <state width="1878" height="228" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1582300694526" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
-    <state width="1878" height="257" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841200" />
-    <state width="1878" height="183" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583378794989" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552358501" />
+    <state width="1878" height="413" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583550317074" />
     <state width="1878" height="284" key="GridCell.Tab.1.bottom" timestamp="1582946377247">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -298,12 +276,12 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1583373462457">
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1583545913759">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1582309615224" />
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1582336938431" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583373462457" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583545913759" />
     <state x="2080" y="187" width="639" height="729" key="find.popup" timestamp="1581560129876">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -316,11 +294,11 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583376471449" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1582942201492">
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1583549866122">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2065" y="248" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955058307" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582942201492" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583549866122" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
