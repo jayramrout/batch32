@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/Computer/pom.xml" />
         <option value="$PROJECT_DIR$/ComputerClient/pom.xml" />
         <option value="$PROJECT_DIR$/Pricing/pom.xml" />
+        <option value="$PROJECT_DIR$/PostgresDB/pom.xml" />
       </list>
     </option>
   </component>

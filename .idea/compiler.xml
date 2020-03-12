@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Pricing" />
         <module name="Computer" />
+        <module name="PostgresDB" />
         <module name="ComputerClient" />
+        <module name="Pricing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Computer" target="13" />
       <module name="ComputerClient" target="13" />
+      <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
     </bytecodeTargetLevel>
   </component>

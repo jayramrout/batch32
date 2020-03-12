@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerClient/ComputerClient.iml" filepath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostgresDB/PostgresDB.iml" filepath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pricing/Pricing.iml" filepath="$PROJECT_DIR$/Pricing/Pricing.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
     </modules>
