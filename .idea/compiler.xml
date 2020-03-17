@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Computer" />
+        <module name="Web" />
         <module name="PostgresDB" />
         <module name="ComputerClient" />
         <module name="Pricing" />
@@ -17,6 +18,7 @@
       <module name="ComputerClient" target="13" />
       <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
+      <module name="Web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

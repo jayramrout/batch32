@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/PostgresDB/PostgresDB.iml" filepath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pricing/Pricing.iml" filepath="$PROJECT_DIR$/Pricing/Pricing.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
     </modules>
   </component>
 </project>

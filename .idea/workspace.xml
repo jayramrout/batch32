@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriverClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriverPreparedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/IDVDService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/dao/IDVDDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/dao/impl/DVDDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/impl/DVDServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Web_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsSortObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/Web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +78,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collections" />
       <recent name="jrout.tutorial.db.postgres" />
       <recent name="threads" />
       <recent name="io" />
       <recent name="" />
-      <recent name="exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DatabaseDriverClient">
-    <configuration name="DatabaseDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.db.postgres.DatabaseDriver" />
-      <module name="PostgresDB" />
+  <component name="RunManager" selected="Application.CollectionsStream">
+    <configuration name="CollectionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CollectionsExample" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jrout.tutorial.db.postgres.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseDriverClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.db.postgres.DatabaseDriverClient" />
-      <module name="PostgresDB" />
+    <configuration name="CollectionsMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CollectionsMap" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jrout.tutorial.db.postgres.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseDriverPreparedStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.db.postgres.DatabaseDriverPreparedStatement" />
-      <module name="PostgresDB" />
+    <configuration name="CollectionsSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CollectionsSetExample" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jrout.tutorial.db.postgres.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.rmi.EmployeeDriver" />
-      <module name="RMI" />
+    <configuration name="CollectionsSortObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CollectionsSortObject" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jrout.tutorial.rmi.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.rmi.EmployeeServer" />
-      <module name="RMI" />
+    <configuration name="CollectionsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CollectionsStream" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jrout.tutorial.rmi.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DatabaseDriverClient" />
-        <item itemvalue="Application.DatabaseDriverPreparedStatement" />
-        <item itemvalue="Application.DatabaseDriver" />
-        <item itemvalue="Application.EmployeeServer" />
-        <item itemvalue="Application.EmployeeDriver" />
+        <item itemvalue="Application.CollectionsStream" />
+        <item itemvalue="Application.CollectionsMap" />
+        <item itemvalue="Application.CollectionsSetExample" />
+        <item itemvalue="Application.CollectionsSortObject" />
+        <item itemvalue="Application.CollectionsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +213,8 @@
       <workItem from="1583614702373" duration="512000" />
       <workItem from="1583686168463" duration="89000" />
       <workItem from="1583801805958" duration="7067000" />
-      <workItem from="1584147382844" duration="5238000" />
+      <workItem from="1584147382844" duration="5871000" />
+      <workItem from="1584406445586" duration="4639000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -238,10 +243,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2000" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583978973742" />
-    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1584152539713">
+    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1584408792435">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584152539713" />
+    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584408792435" />
     <state x="2077" y="213" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580955327330">
       <screen x="1440" y="23" width="1920" height="1017" />
     </state>
@@ -266,56 +271,56 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="374" key="GridCell.Tab.0.bottom" timestamp="1584152485435">
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom" timestamp="1584411302300">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1583555833805" />
+    <state width="1878" height="176" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="374" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584152485435" />
-    <state width="1878" height="374" key="GridCell.Tab.0.center" timestamp="1584152485434">
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302300" />
+    <state width="1878" height="260" key="GridCell.Tab.0.center" timestamp="1584411302299">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1583555833805" />
+    <state width="1878" height="176" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="374" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584152485434" />
-    <state width="1878" height="374" key="GridCell.Tab.0.left" timestamp="1584152485434">
+    <state width="1878" height="260" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302299" />
+    <state width="1878" height="260" key="GridCell.Tab.0.left" timestamp="1584411302298">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1583555833804" />
+    <state width="1878" height="176" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518977" />
-    <state width="1878" height="374" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584152485434" />
-    <state width="1878" height="374" key="GridCell.Tab.0.right" timestamp="1584152485435">
+    <state width="1878" height="260" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302298" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right" timestamp="1584411302300">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1583555833805" />
+    <state width="1878" height="176" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="374" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584152485435" />
-    <state width="1878" height="176" key="GridCell.Tab.1.bottom" timestamp="1584149489691">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302300" />
+    <state width="1878" height="176" key="GridCell.Tab.1.bottom" timestamp="1584215329088">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582152244400" />
+    <state width="1878" height="176" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329088" />
     <state width="1878" height="187" key="GridCell.Tab.1.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
     <state width="1878" height="176" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489691" />
-    <state width="1878" height="176" key="GridCell.Tab.1.center" timestamp="1584149489691">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="176" key="GridCell.Tab.1.center" timestamp="1584215329087">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1582152244399" />
+    <state width="1878" height="176" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="187" key="GridCell.Tab.1.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
     <state width="1878" height="176" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489691" />
-    <state width="1878" height="176" key="GridCell.Tab.1.left" timestamp="1584149489690">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="176" key="GridCell.Tab.1.left" timestamp="1584215329087">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1582152244399" />
+    <state width="1878" height="176" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="187" key="GridCell.Tab.1.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841196" />
     <state width="1878" height="176" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489690" />
-    <state width="1878" height="176" key="GridCell.Tab.1.right" timestamp="1584149489691">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="176" key="GridCell.Tab.1.right" timestamp="1584215329088">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state width="1878" height="283" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1582152244400" />
+    <state width="1878" height="176" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329088" />
     <state width="1878" height="187" key="GridCell.Tab.1.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
     <state width="1878" height="176" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489691" />
     <state x="1909" y="184" key="SettingsEditor" timestamp="1580955096149">
@@ -331,12 +336,12 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584147384458">
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584406446787">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1583686183740" />
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1582336938431" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584147384458" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584406446787" />
     <state x="2080" y="187" width="639" height="729" key="find.popup" timestamp="1581560129876">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -345,10 +350,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="600" height="424" key="javadoc.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1581563865263" />
-    <state x="1882" y="92" key="new project wizard" timestamp="1583978793043">
+    <state x="1882" y="92" key="new project wizard" timestamp="1584406602240">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583978793043" />
+    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584406602240" />
     <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1583803820632">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
