@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsSortObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/collections/CollectionsStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/Web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CalculatorWeb_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CalculatorWeb_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/CalculatorWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/HelloWorldServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/misc/LambdaExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,20 +85,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionsStream">
-    <configuration name="CollectionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CollectionsExample" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LambdaExpression">
     <configuration name="CollectionsMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.CollectionsMap" />
       <module name="CoreJava" />
@@ -151,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="misc.LambdaExpression" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExpression" />
         <item itemvalue="Application.CollectionsStream" />
         <item itemvalue="Application.CollectionsMap" />
         <item itemvalue="Application.CollectionsSetExample" />
         <item itemvalue="Application.CollectionsSortObject" />
-        <item itemvalue="Application.CollectionsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +214,7 @@
       <workItem from="1583686168463" duration="89000" />
       <workItem from="1583801805958" duration="7067000" />
       <workItem from="1584147382844" duration="5871000" />
-      <workItem from="1584406445586" duration="4639000" />
+      <workItem from="1584406445586" duration="9131000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -271,34 +271,34 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="260" key="GridCell.Tab.0.bottom" timestamp="1584411302300">
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom" timestamp="1584579165315">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302300" />
-    <state width="1878" height="260" key="GridCell.Tab.0.center" timestamp="1584411302299">
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165315" />
+    <state width="1878" height="260" key="GridCell.Tab.0.center" timestamp="1584579165314">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="260" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302299" />
-    <state width="1878" height="260" key="GridCell.Tab.0.left" timestamp="1584411302298">
+    <state width="1878" height="260" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165314" />
+    <state width="1878" height="260" key="GridCell.Tab.0.left" timestamp="1584579165314">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518977" />
-    <state width="1878" height="260" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302298" />
-    <state width="1878" height="260" key="GridCell.Tab.0.right" timestamp="1584411302300">
+    <state width="1878" height="260" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165314" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right" timestamp="1584579165315">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="260" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584411302300" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165315" />
     <state width="1878" height="176" key="GridCell.Tab.1.bottom" timestamp="1584215329088">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
@@ -350,10 +350,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="600" height="424" key="javadoc.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1581563865263" />
-    <state x="1882" y="92" key="new project wizard" timestamp="1584406602240">
+    <state x="1882" y="92" key="new project wizard" timestamp="1584581272472">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584406602240" />
+    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584581272472" />
     <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1583803820632">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>

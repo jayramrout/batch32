@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculatorWeb/CalculatorWeb.iml" filepath="$PROJECT_DIR$/CalculatorWeb/CalculatorWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClientModule/ClientModule.iml" filepath="$PROJECT_DIR$/ClientModule/ClientModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerClient/ComputerClient.iml" filepath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" />
@@ -9,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/PostgresDB/PostgresDB.iml" filepath="$PROJECT_DIR$/PostgresDB/PostgresDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pricing/Pricing.iml" filepath="$PROJECT_DIR$/Pricing/Pricing.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
     </modules>
   </component>
 </project>

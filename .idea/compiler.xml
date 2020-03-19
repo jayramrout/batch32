@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Computer" />
-        <module name="Web" />
         <module name="PostgresDB" />
         <module name="ComputerClient" />
         <module name="Pricing" />
+        <module name="CalculatorWeb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CalculatorWeb" target="1.5" />
       <module name="Computer" target="13" />
       <module name="ComputerClient" target="13" />
       <module name="PostgresDB" target="13" />
