@@ -14,12 +14,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CalculatorWeb" target="1.5" />
+      <module name="CalculatorWeb" target="13" />
       <module name="Computer" target="13" />
       <module name="ComputerClient" target="13" />
       <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
-      <module name="Web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

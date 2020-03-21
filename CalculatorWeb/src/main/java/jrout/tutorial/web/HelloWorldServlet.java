@@ -17,7 +17,7 @@ public class HelloWorldServlet extends HttpServlet {
         System.out.println("Hello World...");
 
         ServletOutputStream outputStream = resp.getOutputStream();
-        outputStream.println("Hello World "+ new Date());
+        outputStream.println("Hello World... guys.... "+ new Date());
     }
 
     /*protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

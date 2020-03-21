@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CalculatorWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CalculatorWeb_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CalculatorWeb_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatorWeb/CalculatorWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatorWeb/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/HelloWorldServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/misc/LambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorHTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/webapp/calc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/webapp/finalResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CalculatorWeb_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/CalculatorWeb_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorWeb/CalculatorWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/CalculatorWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorWeb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/HelloWorldServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/HelloWorldServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -71,95 +81,108 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jrout.tutorial.web" />
       <recent name="collections" />
       <recent name="jrout.tutorial.db.postgres" />
       <recent name="threads" />
       <recent name="io" />
-      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExpression">
-    <configuration name="CollectionsMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CollectionsMap" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.33" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/calc" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CalculatorWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CalculatorWeb_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_batch32_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59201" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CalculatorWeb:war exploded" />
+        </option>
       </method>
     </configuration>
-    <configuration name="CollectionsSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CollectionsSetExample" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionsSortObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CollectionsSortObject" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CollectionsStream" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.LambdaExpression" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.LambdaExpression" />
-        <item itemvalue="Application.CollectionsStream" />
-        <item itemvalue="Application.CollectionsMap" />
-        <item itemvalue="Application.CollectionsSetExample" />
-        <item itemvalue="Application.CollectionsSortObject" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -167,17 +190,7 @@
         <serviceView>
           <option name="contentProportion" value="0.12439156" />
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:PostgreSQL - postgres@Jayram.local" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:PostgreSQL - postgres@Jayram.local" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@19b5ac10" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -214,7 +227,7 @@
       <workItem from="1583686168463" duration="89000" />
       <workItem from="1583801805958" duration="7067000" />
       <workItem from="1584147382844" duration="5871000" />
-      <workItem from="1584406445586" duration="9131000" />
+      <workItem from="1584406445586" duration="14945000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -235,18 +248,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1990" y="199" key="#Project_Structure" timestamp="1583979197243">
+    <state x="1990" y="199" key="#Project_Structure" timestamp="1584752292208">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1990" y="199" key="#Project_Structure/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583979197243" />
-    <state x="2000" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583978973742">
+    <state x="1990" y="199" key="#Project_Structure/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584752292208" />
+    <state x="2135" y="220" key="#Tomcat_Server" timestamp="1584752198852">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="2000" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583978973742" />
+    <state x="2135" y="220" key="#Tomcat_Server/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584752198852" />
+    <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584753879728">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584753879728" />
     <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1584408792435">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584408792435" />
+    <state x="2135" y="220" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1584753477518">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2135" y="220" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584753477518" />
     <state x="2077" y="213" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580955327330">
       <screen x="1440" y="23" width="1920" height="1017" />
     </state>
@@ -271,63 +292,79 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="260" key="GridCell.Tab.0.bottom" timestamp="1584579165315">
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom" timestamp="1584757124746">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165315" />
-    <state width="1878" height="260" key="GridCell.Tab.0.center" timestamp="1584579165314">
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124746" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center" timestamp="1584757124745">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="260" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165314" />
-    <state width="1878" height="260" key="GridCell.Tab.0.left" timestamp="1584579165314">
+    <state width="1878" height="212" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124745" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left" timestamp="1584757124744">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518977" />
-    <state width="1878" height="260" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165314" />
-    <state width="1878" height="260" key="GridCell.Tab.0.right" timestamp="1584579165315">
+    <state width="1878" height="212" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124744" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right" timestamp="1584757124745">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="260" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584579165315" />
-    <state width="1878" height="176" key="GridCell.Tab.1.bottom" timestamp="1584215329088">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124745" />
+    <state width="1878" height="212" key="GridCell.Tab.1.bottom" timestamp="1584757124748">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329088" />
     <state width="1878" height="187" key="GridCell.Tab.1.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="176" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489691" />
-    <state width="1878" height="176" key="GridCell.Tab.1.center" timestamp="1584215329087">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1878" height="212" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124748" />
+    <state width="1878" height="212" key="GridCell.Tab.1.center" timestamp="1584757124747">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="187" key="GridCell.Tab.1.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="176" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489691" />
-    <state width="1878" height="176" key="GridCell.Tab.1.left" timestamp="1584215329087">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1878" height="212" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124747" />
+    <state width="1878" height="212" key="GridCell.Tab.1.left" timestamp="1584757124747">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="187" key="GridCell.Tab.1.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841196" />
-    <state width="1878" height="176" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489690" />
-    <state width="1878" height="176" key="GridCell.Tab.1.right" timestamp="1584215329088">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1878" height="212" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124747" />
+    <state width="1878" height="212" key="GridCell.Tab.1.right" timestamp="1584757124748">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329088" />
     <state width="1878" height="187" key="GridCell.Tab.1.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="176" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584149489691" />
-    <state x="1909" y="184" key="SettingsEditor" timestamp="1580955096149">
-      <screen x="1440" y="23" width="1920" height="1017" />
+    <state width="1878" height="212" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124748" />
+    <state width="1878" height="212" key="GridCell.Tab.2.bottom" timestamp="1584757124750">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.2.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124750" />
+    <state width="1878" height="212" key="GridCell.Tab.2.center" timestamp="1584757124749">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.2.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124749" />
+    <state width="1878" height="212" key="GridCell.Tab.2.left" timestamp="1584757124749">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.2.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124749" />
+    <state width="1878" height="212" key="GridCell.Tab.2.right" timestamp="1584757124750">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.2.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757124750" />
+    <state x="1909" y="190" key="SettingsEditor" timestamp="1584753558031">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1909" y="184" key="SettingsEditor/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955096149" />
-    <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580786228982" />
+    <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584753558031" />
     <state width="538" height="445" key="SwitcherDM" timestamp="1582944018241">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -354,11 +391,11 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584581272472" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1583803820632">
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1584753554612">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2065" y="248" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955058307" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1583803820632" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584753554612" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
