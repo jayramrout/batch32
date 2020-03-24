@@ -1,7 +1,12 @@
-package jrout.tutorial.db.postgres;
+package jrout.tutorial.spring.domain;
 
 import java.sql.Date;
 
+/**
+ * POJO's
+ * Domain Objects
+ * DTO Data Transfer Object
+ */
 public class Actor {
     private int actorId;
     private String firstName;

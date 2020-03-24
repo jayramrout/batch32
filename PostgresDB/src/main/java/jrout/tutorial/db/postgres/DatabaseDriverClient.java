@@ -1,5 +1,6 @@
 package jrout.tutorial.db.postgres;
 
+import jrout.tutorial.db.postgres.domain.Actor;
 import jrout.tutorial.db.postgres.service.IDVDService;
 import jrout.tutorial.db.postgres.service.impl.DVDServiceImpl;
 

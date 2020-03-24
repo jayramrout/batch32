@@ -45,7 +45,14 @@ public class CalculatorServlet extends HttpServlet {
             oper = "-";
             result = x - y;
         }
-        RequestDispatcher requestDispatcher = req.getRequestDispatcher("finalResult.jsp");
+        String finalPage = "";
+        if(oper == "add"){
+            finalPage = "addResult.jsp";
+        }else if(oper == "sub"){
+            finalPage = "subResult.jsp";
+        }
+
+        RequestDispatcher requestDispatcher = req.getRequestDispatcher(finalPage);
         req.setAttribute("Operation",oper);
         req.setAttribute("Result",result);
 

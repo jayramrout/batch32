@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/CalculatorWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-web" />
     <file type="web" url="file://$PROJECT_DIR$/Web" />
   </component>
   <component name="MavenProjectsManager">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/Pricing/pom.xml" />
         <option value="$PROJECT_DIR$/PostgresDB/pom.xml" />
         <option value="$PROJECT_DIR$/CalculatorWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBasics/pom.xml" />
       </list>
     </option>
   </component>

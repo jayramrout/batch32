@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Computer" />
-        <module name="PostgresDB" />
-        <module name="ComputerClient" />
-        <module name="Pricing" />
         <module name="CalculatorWeb" />
+        <module name="Pricing" />
+        <module name="Computer" />
+        <module name="ComputerClient" />
+        <module name="PostgresDB" />
+        <module name="SpringBasics" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,13 @@
       <module name="ComputerClient" target="13" />
       <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
+      <module name="spring-web" target="13" />
+      <module name="SpringBasics" target="13" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-web" options="-parameters" />
+    </option>
   </component>
 </project>

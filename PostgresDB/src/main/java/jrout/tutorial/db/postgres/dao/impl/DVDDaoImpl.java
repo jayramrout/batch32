@@ -1,7 +1,7 @@
-package jrout.tutorial.db.postgres.service.dao.impl;
+package jrout.tutorial.db.postgres.dao.impl;
 
-import jrout.tutorial.db.postgres.Actor;
-import jrout.tutorial.db.postgres.service.dao.IDVDDao;
+import jrout.tutorial.db.postgres.domain.Actor;
+import jrout.tutorial.db.postgres.dao.IDVDDao;
 
 import java.sql.*;
 import java.util.ArrayList;

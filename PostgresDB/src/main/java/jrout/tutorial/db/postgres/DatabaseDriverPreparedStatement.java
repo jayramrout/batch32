@@ -2,6 +2,8 @@ package jrout.tutorial.db.postgres;
 
 //import org.postgresql.Driver;
 
+import jrout.tutorial.db.postgres.domain.Actor;
+
 import java.sql.*;
 
 public class DatabaseDriverPreparedStatement {

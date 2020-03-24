@@ -1,9 +1,9 @@
 package jrout.tutorial.db.postgres.service.impl;
 
-import jrout.tutorial.db.postgres.Actor;
+import jrout.tutorial.db.postgres.domain.Actor;
 import jrout.tutorial.db.postgres.service.IDVDService;
-import jrout.tutorial.db.postgres.service.dao.IDVDDao;
-import jrout.tutorial.db.postgres.service.dao.impl.DVDDaoImpl;
+import jrout.tutorial.db.postgres.dao.IDVDDao;
+import jrout.tutorial.db.postgres.dao.impl.DVDDaoImpl;
 
 import java.sql.Date;
 import java.util.List;

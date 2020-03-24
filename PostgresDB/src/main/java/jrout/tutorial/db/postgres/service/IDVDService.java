@@ -1,6 +1,6 @@
 package jrout.tutorial.db.postgres.service;
 
-import jrout.tutorial.db.postgres.Actor;
+import jrout.tutorial.db.postgres.domain.Actor;
 
 import java.util.List;
 
