@@ -7,53 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/DVDClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/dao/IDVDDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/dao/impl/DVDDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/domain/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/service/IDVDService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/service/impl/DVDServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/test/java/jrout/tutorial/spring/dao/impl/DVDDaoImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/test/java/jrout/tutorial/spring/service/impl/DVDServiceImplTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/main/java/com/example/demo/HelloWorldServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/main/java/com/example/demo/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/main/resources/static/calc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/main/webapp/calc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-web/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/domain/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriverClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriverClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriverPreparedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/DatabaseDriverPreparedStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/IDVDService.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/IDVDService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/dao/IDVDDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/dao/IDVDDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/dao/impl/DVDDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/dao/impl/DVDDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/impl/DVDServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/service/impl/DVDServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/DVDClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/dao/impl/DVDDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/dao/impl/DVDDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/service/impl/DVDServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/service/impl/DVDServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasics/src/test/java/jrout/tutorial/spring/service/impl/DVDServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/src/test/java/jrout/tutorial/spring/service/impl/DVDServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +44,9 @@
       <list>
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -127,7 +93,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-web/src/main/resources/static" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="tasks.servers" />
@@ -137,22 +103,22 @@
       <recent name="jrout.tutorial.spring.dao.impl" />
       <recent name="jrout.tutorial.spring.service.impl" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-web/src/main/webapp" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jrout.tutorial.spring.dao.impl" />
+      <recent name="jrout.tutorial.spring.dao" />
+      <recent name="jrout.tutorial.spring.domain" />
+      <recent name="jrout.tutorial.spring.service" />
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-web/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="jrout.tutorial.spring.dao" />
-      <recent name="jrout.tutorial.spring.domain" />
-      <recent name="jrout.tutorial.spring.service" />
-      <recent name="com.example.demo" />
-      <recent name="jrout.tutorial.web" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-web/src/main/resources/static" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-web/src/main/webapp" />
       <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
     </key>
   </component>
@@ -163,9 +129,23 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DVDDaoImplTest.getActorDetail">
+  <component name="RunManager" selected="JUnit.DVDServiceImplTest.getActorDetail">
     <configuration name="DVDClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.DVDClient" />
+      <module name="SpringBasics" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jrout.tutorial.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.MainApp" />
       <module name="SpringBasics" />
       <extension name="coverage">
         <pattern>
@@ -208,7 +188,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DVDServiceImplTest2.getActorDetail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DVDServiceImplTest.getActorDetail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBasics" />
       <extension name="coverage">
         <pattern>
@@ -217,7 +197,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="jrout.tutorial.spring.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.service.impl.DVDServiceImplTest2" />
+      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.service.impl.DVDServiceImplTest" />
       <option name="METHOD_NAME" value="getActorDetail" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -227,19 +207,6 @@
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServletInitializer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ServletInitializer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -319,11 +286,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DVDServiceImplTest.getActorDetail" />
+        <item itemvalue="Application.MainApp" />
         <item itemvalue="JUnit.DVDDaoImplTest.getActorDetail" />
-        <item itemvalue="JUnit.DVDServiceImplTest2.getActorDetail" />
-        <item itemvalue="JUnit.DVDServiceImplTest" />
         <item itemvalue="Application.DVDClient" />
-        <item itemvalue="Spring Boot.ServletInitializer" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +337,8 @@
       <workItem from="1583801805958" duration="7067000" />
       <workItem from="1584147382844" duration="5871000" />
       <workItem from="1584406445586" duration="15123000" />
-      <workItem from="1585009314394" duration="5889000" />
+      <workItem from="1585009314394" duration="8604000" />
+      <workItem from="1585183400225" duration="5282000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -392,10 +359,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1990" y="199" key="#Project_Structure" timestamp="1584752292208">
+    <state x="1990" y="199" key="#Project_Structure" timestamp="1585188060667">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1990" y="199" key="#Project_Structure/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584752292208" />
+    <state x="1990" y="199" key="#Project_Structure/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188060667" />
     <state x="2135" y="220" key="#Tomcat_Server" timestamp="1584752198852">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -432,38 +399,38 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="427" height="466" key="DebuggerActiveHint/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1582339536999" />
-    <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog" timestamp="1580353128402">
+    <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog" timestamp="1585183534554">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353128402" />
-    <state width="1878" height="288" key="GridCell.Tab.0.bottom" timestamp="1585016083585">
+    <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585183534554" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1585188263825">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="176" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1585171158285" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="288" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585016083585" />
-    <state width="1878" height="288" key="GridCell.Tab.0.center" timestamp="1585016083584">
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263825" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1585188263824">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="176" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="288" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585016083584" />
-    <state width="1878" height="288" key="GridCell.Tab.0.left" timestamp="1585016083583">
+    <state width="1878" height="259" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263824" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1585188263823">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="176" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329086" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518977" />
-    <state width="1878" height="288" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585016083583" />
-    <state width="1878" height="288" key="GridCell.Tab.0.right" timestamp="1585016083584">
+    <state width="1878" height="259" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263823" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1585188263825">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="176" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="288" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585016083584" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263825" />
     <state width="1878" height="370" key="GridCell.Tab.1.bottom" timestamp="1585011548671">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -504,6 +471,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="212" key="GridCell.Tab.2.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757591066" />
+    <state x="2155" y="269" key="RollbackChangesDialog" timestamp="1585018410822">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2155" y="269" key="RollbackChangesDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585018410822" />
     <state x="1909" y="190" key="SettingsEditor" timestamp="1584753558031">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -517,12 +488,12 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584406446787">
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1585183400697">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1583686183740" />
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1582336938431" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584406446787" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585183400697" />
     <state x="2155" y="285" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585015949445">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
