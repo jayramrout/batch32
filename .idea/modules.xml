@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pricing/Pricing.iml" filepath="$PROJECT_DIR$/Pricing/Pricing.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBasics/SpringBasics.iml" filepath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
     </modules>
   </component>
 </project>

@@ -3,20 +3,53 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="CalculatorWeb:war exploded" />
+      <artifact name="spring-mvc:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBasics/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/controller/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/dao/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/jrout/tutorial/springmvc/employee/validator/EmployeeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/resources/jrout/tutorial/springmvc/employee/properties/Employee.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/resources/jrout/tutorial/springmvc/employee/properties/message_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/resources/jrout/tutorial/springmvc/employee/properties/message_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/views/EmployeeForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/views/EmployeeSuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBasics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/DVDClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/dao/impl/DVDDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/dao/impl/DVDDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/CalculatorControllerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/HelloWorldServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/java/jrout/tutorial/web/HelloWorldServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/service/impl/DVDServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/src/main/java/jrout/tutorial/spring/service/impl/DVDServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBasics/src/test/java/jrout/tutorial/spring/service/impl/DVDServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasics/src/test/java/jrout/tutorial/spring/service/impl/DVDServiceImplTest.java" afterDir="false" />
     </list>
@@ -92,7 +125,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-web/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -103,6 +136,13 @@
       <recent name="jrout.tutorial.spring.dao.impl" />
       <recent name="jrout.tutorial.spring.service.impl" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="jrout.tutorial.spring.dao.impl" />
       <recent name="jrout.tutorial.spring.dao" />
@@ -111,14 +151,9 @@
       <recent name="com.example.demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/spring-mvc/src/main/webapp" />
       <recent name="$PROJECT_DIR$/spring-web/src/main/resources/static" />
-      <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-web/src/main/webapp" />
       <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
     </key>
   </component>
@@ -129,7 +164,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DVDServiceImplTest.getActorDetail">
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
     <configuration name="DVDClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.DVDClient" />
       <module name="SpringBasics" />
@@ -173,21 +208,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DVDServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jrout.tutorial.spring.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jrout.tutorial.spring.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.service.impl.DVDServiceImplTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DVDServiceImplTest.getActorDetail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBasics" />
       <extension name="coverage">
@@ -199,6 +219,22 @@
       <option name="PACKAGE_NAME" value="jrout.tutorial.spring.service.impl" />
       <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.service.impl.DVDServiceImplTest" />
       <option name="METHOD_NAME" value="getActorDetail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DVDServiceImplTest.testObjectCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jrout.tutorial.spring.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jrout.tutorial.spring.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.spring.service.impl.DVDServiceImplTest" />
+      <option name="METHOD_NAME" value="testObjectCreation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,6 +254,11 @@
         <artifact name="CalculatorWeb:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/CalculatorWeb_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="spring-mvc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring_mvc_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -281,12 +322,23 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="CalculatorWeb:war exploded" />
+          <artifact name="spring-mvc:war exploded" />
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DVDClient" />
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="JUnit.DVDDaoImplTest.getActorDetail" />
+      <item itemvalue="JUnit.DVDServiceImplTest.getActorDetail" />
+      <item itemvalue="JUnit.DVDServiceImplTest.testObjectCreation" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DVDServiceImplTest.getActorDetail" />
+        <item itemvalue="JUnit.DVDServiceImplTest.testObjectCreation" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="JUnit.DVDDaoImplTest.getActorDetail" />
         <item itemvalue="Application.DVDClient" />
@@ -338,7 +390,9 @@
       <workItem from="1584147382844" duration="5871000" />
       <workItem from="1584406445586" duration="15123000" />
       <workItem from="1585009314394" duration="8604000" />
-      <workItem from="1585183400225" duration="5282000" />
+      <workItem from="1585183400225" duration="5494000" />
+      <workItem from="1585356521321" duration="4471000" />
+      <workItem from="1585617117211" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -367,10 +421,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2135" y="220" key="#Tomcat_Server/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584752198852" />
-    <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584753879728">
+    <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585619059160">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584753879728" />
+    <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585619059160" />
     <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1585014870826">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -403,74 +457,74 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585183534554" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1585188263825">
+    <state width="1878" height="160" key="GridCell.Tab.0.bottom" timestamp="1585620458130">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1585171158285" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263825" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1585188263824">
+    <state width="1878" height="160" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458130" />
+    <state width="1878" height="160" key="GridCell.Tab.0.center" timestamp="1585620458129">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263824" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1585188263823">
+    <state width="1878" height="160" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458129" />
+    <state width="1878" height="160" key="GridCell.Tab.0.left" timestamp="1585620458128">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518977" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263823" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1585188263825">
+    <state width="1878" height="160" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458128" />
+    <state width="1878" height="160" key="GridCell.Tab.0.right" timestamp="1585620458129">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585188263825" />
-    <state width="1878" height="370" key="GridCell.Tab.1.bottom" timestamp="1585011548671">
+    <state width="1878" height="160" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458129" />
+    <state width="1878" height="160" key="GridCell.Tab.1.bottom" timestamp="1585620458132">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1584215329088" />
     <state width="1878" height="187" key="GridCell.Tab.1.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="370" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585011548671" />
-    <state width="1878" height="370" key="GridCell.Tab.1.center" timestamp="1585011548670">
+    <state width="1878" height="160" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458132" />
+    <state width="1878" height="160" key="GridCell.Tab.1.center" timestamp="1585620458131">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="187" key="GridCell.Tab.1.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="370" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585011548670" />
-    <state width="1878" height="370" key="GridCell.Tab.1.left" timestamp="1585011548670">
+    <state width="1878" height="160" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458131" />
+    <state width="1878" height="160" key="GridCell.Tab.1.left" timestamp="1585620458131">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1584215329087" />
     <state width="1878" height="187" key="GridCell.Tab.1.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841196" />
-    <state width="1878" height="370" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585011548670" />
-    <state width="1878" height="370" key="GridCell.Tab.1.right" timestamp="1585011548671">
+    <state width="1878" height="160" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458131" />
+    <state width="1878" height="160" key="GridCell.Tab.1.right" timestamp="1585620458132">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="176" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1584215329088" />
     <state width="1878" height="187" key="GridCell.Tab.1.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1582773841197" />
-    <state width="1878" height="370" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585011548671" />
-    <state width="1878" height="212" key="GridCell.Tab.2.bottom" timestamp="1584757591067">
+    <state width="1878" height="160" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458132" />
+    <state width="1878" height="160" key="GridCell.Tab.2.bottom" timestamp="1585620458135">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="212" key="GridCell.Tab.2.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757591067" />
-    <state width="1878" height="212" key="GridCell.Tab.2.center" timestamp="1584757591066">
+    <state width="1878" height="160" key="GridCell.Tab.2.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458135" />
+    <state width="1878" height="160" key="GridCell.Tab.2.center" timestamp="1585620458133">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="212" key="GridCell.Tab.2.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757591066" />
-    <state width="1878" height="212" key="GridCell.Tab.2.left" timestamp="1584757591066">
+    <state width="1878" height="160" key="GridCell.Tab.2.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458133" />
+    <state width="1878" height="160" key="GridCell.Tab.2.left" timestamp="1585620458133">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="212" key="GridCell.Tab.2.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757591066" />
-    <state width="1878" height="212" key="GridCell.Tab.2.right" timestamp="1584757591066">
+    <state width="1878" height="160" key="GridCell.Tab.2.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458133" />
+    <state width="1878" height="160" key="GridCell.Tab.2.right" timestamp="1585620458134">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="212" key="GridCell.Tab.2.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1584757591066" />
+    <state width="1878" height="160" key="GridCell.Tab.2.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585620458134" />
     <state x="2155" y="269" key="RollbackChangesDialog" timestamp="1585018410822">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -488,12 +542,12 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1585183400697">
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1585617118200">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1583686183740" />
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1582336938431" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585183400697" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585617118200" />
     <state x="2155" y="285" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585015949445">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -506,15 +560,15 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="600" height="424" key="javadoc.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1581563865263" />
-    <state x="1882" y="92" key="new project wizard" timestamp="1585014327649">
+    <state x="1882" y="92" key="new project wizard" timestamp="1585359487637">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585014327649" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1585013555604">
+    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585359487637" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1585618932836">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2065" y="248" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955058307" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585013555604" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585618932836" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

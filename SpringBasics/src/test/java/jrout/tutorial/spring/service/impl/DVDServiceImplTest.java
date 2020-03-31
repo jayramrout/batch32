@@ -30,10 +30,24 @@ public class DVDServiceImplTest {
     @Test
     public void getActorDetail() {
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
+
         IDVDService service = applicationContext.getBean(IDVDService.class);
         Actor actorDetail = service.getActorDetail(101);
         System.out.println(actorDetail);
-
 //        applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+    }
+
+    @Test
+    public void testObjectCreation() {
+        ApplicationContext applicationContext =  new AnnotationConfigApplicationContext(AppConfig.class);
+//        IDVDService bean = applicationContext.getBean(IDVDService.class);
+//        System.out.println(applicationContext.getBean("DVDServiceImpl"));
+
+        IDVDService bean1 = applicationContext.getBean(IDVDService.class);
+        System.out.println(bean1.hashCode());
+
+        IDVDService bean2 = applicationContext.getBean(IDVDService.class);
+        System.out.println(bean2.hashCode());
+
     }
 }

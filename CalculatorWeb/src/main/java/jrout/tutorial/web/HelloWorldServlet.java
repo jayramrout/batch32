@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Date;
-
+// Controller
 @WebServlet(name = "HelloWorldServlet",urlPatterns = {"/helloWorld","/hw"})
 public class HelloWorldServlet extends HttpServlet {
 

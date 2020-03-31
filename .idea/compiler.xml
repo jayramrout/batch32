@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CalculatorWeb" />
-        <module name="Pricing" />
-        <module name="Computer" />
-        <module name="ComputerClient" />
         <module name="PostgresDB" />
+        <module name="Computer" />
+        <module name="spring-mvc" />
         <module name="SpringBasics" />
+        <module name="Pricing" />
+        <module name="ComputerClient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="ComputerClient" target="13" />
       <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
+      <module name="spring-mvc" target="13" />
       <module name="spring-web" target="13" />
       <module name="SpringBasics" target="13" />
     </bytecodeTargetLevel>

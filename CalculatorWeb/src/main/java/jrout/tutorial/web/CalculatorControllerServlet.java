@@ -13,7 +13,7 @@ import java.io.PrintWriter;
 import java.util.Date;
 
 @WebServlet(name = "CalculatorServlet", urlPatterns = {"/calculator"})
-public class CalculatorServlet extends HttpServlet {
+public class CalculatorControllerServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
