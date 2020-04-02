@@ -12,5 +12,7 @@ public class EmployeeServer {
         Registry registry = LocateRegistry.createRegistry(4444);
         registry.rebind("employee",iEmployeeService);
         System.out.println("My Employee Service is registered....");
+
+
     }
 }

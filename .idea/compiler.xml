@@ -6,19 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="HelloWorldWebService" />
         <module name="CalculatorWeb" />
         <module name="PostgresDB" />
+        <module name="ComputerClient" />
         <module name="Computer" />
         <module name="spring-mvc" />
-        <module name="SpringBasics" />
         <module name="Pricing" />
-        <module name="ComputerClient" />
+        <module name="SpringBasics" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CalculatorWeb" target="13" />
       <module name="Computer" target="13" />
       <module name="ComputerClient" target="13" />
+      <module name="HelloWorldWebService" target="13" />
       <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
       <module name="spring-mvc" target="13" />

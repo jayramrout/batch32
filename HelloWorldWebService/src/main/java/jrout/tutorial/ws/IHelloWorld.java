@@ -1,0 +1,16 @@
+package jrout.tutorial.ws;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+import javax.jws.soap.SOAPBinding;
+
+@WebService
+@SOAPBinding
+public interface IHelloWorld {
+
+    @WebMethod(operationName = "myHelloWorld")
+    String helloWorld(String firstName, String lastName);
+
+    @WebMethod(operationName = "printName")
+    void printName(String firstName, String lastName);
+}
