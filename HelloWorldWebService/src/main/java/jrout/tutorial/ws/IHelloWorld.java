@@ -13,4 +13,13 @@ public interface IHelloWorld {
 
     @WebMethod(operationName = "printName")
     void printName(String firstName, String lastName);
+
+//    @WebMethod
+//    @SOAPBinding(parameterStyle = SOAPBinding.ParameterStyle.WRAPPED)
+//    void printName(Person person);
+}
+
+class Person{
+    private String firstName;
+    private String lastName;
 }

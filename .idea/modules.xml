@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBasics/SpringBasics.iml" filepath="$PROJECT_DIR$/SpringBasics/SpringBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-ws/springboot-ws.iml" filepath="$PROJECT_DIR$/springboot-ws/springboot-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wstopdown/wstopdown.iml" filepath="$PROJECT_DIR$/wstopdown/wstopdown.iml" />
     </modules>
   </component>
 </project>

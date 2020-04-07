@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring-mvc" />
     <file type="web" url="file://$PROJECT_DIR$/spring-web" />
     <file type="web" url="file://$PROJECT_DIR$/Web" />
+    <file type="web" url="file://$PROJECT_DIR$/wstopdown" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -17,6 +18,8 @@
         <option value="$PROJECT_DIR$/SpringBasics/pom.xml" />
         <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
         <option value="$PROJECT_DIR$/HelloWorldWebService/pom.xml" />
+        <option value="$PROJECT_DIR$/wstopdown/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-ws/pom.xml" />
       </list>
     </option>
   </component>

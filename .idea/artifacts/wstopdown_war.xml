@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wstopdown:war">
+    <output-path>$PROJECT_DIR$/wstopdown/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>wstopdown</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="wstopdown-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="wstopdown:war exploded" />
+    </root>
+  </artifact>
+</component>
