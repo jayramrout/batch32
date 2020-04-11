@@ -6,26 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/jrout/tutorial/springbootrest/SpringBootRestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/jrout/tutorial/springbootrest/controller/ActorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/java/jrout/tutorial/springbootrest/domain/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-rest/src/test/java/jrout/tutorial/springbootrest/SpringBootRestApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorWeb/src/main/webapp/calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorWeb/src/main/webapp/calc.html" afterDir="false" />
-    </list>
+    <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -386,7 +367,7 @@
       <workItem from="1585961822398" duration="5380000" />
       <workItem from="1586222185046" duration="2838000" />
       <workItem from="1586565696507" duration="3178000" />
-      <workItem from="1586569542348" duration="1762000" />
+      <workItem from="1586569542348" duration="2013000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
