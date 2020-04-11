@@ -6,16 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HelloWorldWebService" />
         <module name="CalculatorWeb" />
+        <module name="SpringBasics" />
+        <module name="Pricing" />
         <module name="PostgresDB" />
-        <module name="ComputerClient" />
         <module name="Computer" />
         <module name="spring-mvc" />
         <module name="springboot-ws" />
-        <module name="Pricing" />
+        <module name="ComputerClient" />
+        <module name="spring-boot-rest" />
         <module name="wstopdown" />
-        <module name="SpringBasics" />
+        <module name="HelloWorldWebService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
       <module name="HelloWorldWebService" target="13" />
       <module name="PostgresDB" target="13" />
       <module name="Pricing" target="13" />
+      <module name="spring-boot-rest" target="11" />
       <module name="spring-mvc" target="13" />
       <module name="spring-web" target="13" />
       <module name="SpringBasics" target="13" />
@@ -34,6 +36,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-rest" options="-parameters" />
       <module name="spring-web" options="-parameters" />
       <module name="springboot-ws" options="-parameters" />
     </option>

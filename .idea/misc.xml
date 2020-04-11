@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/HelloWorldWebService/pom.xml" />
         <option value="$PROJECT_DIR$/wstopdown/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-ws/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rest/pom.xml" />
       </list>
     </option>
   </component>
