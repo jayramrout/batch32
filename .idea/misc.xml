@@ -21,6 +21,8 @@
         <option value="$PROJECT_DIR$/wstopdown/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-ws/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-activemq/pom.xml" />
       </list>
     </option>
   </component>
