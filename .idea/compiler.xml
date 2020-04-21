@@ -6,19 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HelloWorldWebService" />
-        <module name="CalculatorWeb" />
-        <module name="PostgresDB" />
-        <module name="ComputerClient" />
-        <module name="spring-boot-activemq" />
-        <module name="Computer" />
-        <module name="spring-mvc" />
-        <module name="springboot-ws" />
-        <module name="Pricing" />
-        <module name="spring-boot-rest" />
-        <module name="sb-activemq" />
         <module name="wstopdown" />
+        <module name="Computer" />
+        <module name="spring-boot-rest" />
+        <module name="CalculatorWeb" />
+        <module name="sb-activemq" />
+        <module name="spring-boot-activemq" />
+        <module name="HelloWorldWebService" />
+        <module name="springboot-ws" />
+        <module name="ComputerClient" />
         <module name="SpringBasics" />
+        <module name="spring-mvc" />
+        <module name="PostgresDB" />
+        <module name="Pricing" />
+        <module name="spring-boot-data-jpa" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +31,7 @@
       <module name="Pricing" target="13" />
       <module name="sb-activemq" target="11" />
       <module name="spring-boot-activemq" target="11" />
+      <module name="spring-boot-data-jpa" target="11" />
       <module name="spring-boot-rest" target="11" />
       <module name="spring-mvc" target="13" />
       <module name="spring-web" target="13" />
@@ -42,6 +44,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="sb-activemq" options="-parameters" />
       <module name="spring-boot-activemq" options="-parameters" />
+      <module name="spring-boot-data-jpa" options="-parameters" />
       <module name="spring-boot-rest" options="-parameters" />
       <module name="spring-web" options="-parameters" />
       <module name="springboot-ws" options="-parameters" />

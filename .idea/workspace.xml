@@ -7,52 +7,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae3dc246-ead7-481f-8669-4e92e6bfc68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_2_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_jms_jakarta_jms_api_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_15_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_15_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_15_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_activemq_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/src/main/java/jrout/tutorial/springboot/sbactivemq/SbActivemqApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/src/main/java/jrout/tutorial/springboot/sbactivemq/listerner/WorkListerner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sb-activemq/src/test/java/jrout/tutorial/springboot/sbactivemq/SbActivemqApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/src/main/java/jrout/tutorial/springbootactivemq/SpringBootActivemqApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/src/main/java/jrout/tutorial/springbootactivemq/listener/MessageListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-activemq/src/test/java/jrout/tutorial/springbootactivemq/SpringBootActivemqApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComputerClient/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/jrout/tutorial/springbootdatajpa/SpringBootDataJpaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/jrout/tutorial/springbootdatajpa/domain/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/jrout/tutorial/springbootdatajpa/repository/ActorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/test/java/jrout/tutorial/springbootdatajpa/SpringBootDataJpaApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerClient/ComputerClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComputerClient/src/main/java/jrout/tutorial/client/ComputerDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComputerClient/src/main/java/jrout/tutorial/client/ComputerDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/dao/impl/DVDDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresDB/src/main/java/jrout/tutorial/db/postgres/dao/impl/DVDDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-activemq/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-activemq/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +66,57 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@Jayram.local" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="actor: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -79,8 +125,8 @@
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
         <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -130,31 +176,31 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="jrout.tutorial.spring.dao.impl" />
       <recent name="jrout.tutorial.spring.service.impl" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-web/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jrout.tutorial.springbootdatajpa.domain" />
       <recent name="jrout.tutorial.spring.dao.impl" />
       <recent name="jrout.tutorial.spring.dao" />
       <recent name="jrout.tutorial.spring.domain" />
       <recent name="jrout.tutorial.spring.service" />
-      <recent name="com.example.demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/spring-mvc/src/main/webapp" />
       <recent name="$PROJECT_DIR$/spring-web/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-web/src/main/webapp" />
       <recent name="$PROJECT_DIR$/CalculatorWeb/src/main/webapp" />
     </key>
   </component>
@@ -165,26 +211,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SbActivemqApplicationTests.sendMessageToQ">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.ws.Client" />
-      <module name="HelloWorldWebService" />
+  <component name="RunManager" selected="JUnit.SpringBootDataJpaApplicationTests.testQueryActor">
+    <configuration name="ComputerDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.client.ComputerDriver" />
+      <module name="ComputerClient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jrout.tutorial.ws.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorldPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.ws.HelloWorldPublisher" />
-      <module name="HelloWorldWebService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jrout.tutorial.ws.*" />
+          <option name="PATTERN" value="jrout.tutorial.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,6 +273,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootDataJpaApplicationTests.testQueryActor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-data-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jrout.tutorial.springbootdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jrout.tutorial.springbootdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="jrout.tutorial.springbootdatajpa.SpringBootDataJpaApplicationTests" />
+      <option name="METHOD_NAME" value="testQueryActor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -257,6 +306,13 @@
     <configuration name="SpringBootActivemqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-activemq" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="jrout.tutorial.springbootactivemq.SpringBootActivemqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="jrout.tutorial.springbootdatajpa.SpringBootDataJpaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -349,25 +405,26 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorldPublisher" />
-      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ComputerDriver" />
+      <item itemvalue="JUnit.SpringBootActivemqApplicationTests.sendMessage" />
+      <item itemvalue="JUnit.SpringBootActivemqApplicationTests.sendMessageToWorkQ" />
+      <item itemvalue="JUnit.SbActivemqApplicationTests.sendMessageToQ" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.SpringbootWsApplication" />
       <item itemvalue="Spring Boot.SpringBootRestApplication" />
-      <item itemvalue="Tomcat Server.Tomcat" />
       <item itemvalue="Spring Boot.SpringBootActivemqApplication" />
-      <item itemvalue="JUnit.SpringBootActivemqApplicationTests.sendMessage" />
-      <item itemvalue="JUnit.SpringBootActivemqApplicationTests.sendMessageToWorkQ" />
       <item itemvalue="Spring Boot.SbActivemqApplication" />
-      <item itemvalue="JUnit.SbActivemqApplicationTests.sendMessageToQ" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+      <item itemvalue="Spring Boot.SpringBootDataJpaApplication" />
+      <item itemvalue="JUnit.SpringBootDataJpaApplicationTests.testQueryActor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpringBootDataJpaApplicationTests.testQueryActor" />
+        <item itemvalue="Application.ComputerDriver" />
         <item itemvalue="JUnit.SbActivemqApplicationTests.sendMessageToQ" />
         <item itemvalue="JUnit.SpringBootActivemqApplicationTests.sendMessageToWorkQ" />
         <item itemvalue="JUnit.SpringBootActivemqApplicationTests.sendMessage" />
-        <item itemvalue="Application.HelloWorldPublisher" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +442,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:PostgreSQL - postgres@Jayram.local" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@519cc09b" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1895702" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -434,7 +491,9 @@
       <workItem from="1586222185046" duration="2838000" />
       <workItem from="1586565696507" duration="3178000" />
       <workItem from="1586569542348" duration="2885000" />
-      <workItem from="1586997323655" duration="4903000" />
+      <workItem from="1586997323655" duration="6065000" />
+      <workItem from="1587171288008" duration="4724000" />
+      <workItem from="1587429147686" duration="5697000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1580353141878</created>
@@ -467,10 +526,10 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1970" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1586566650667" />
-    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1585792315278">
+    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1587434525635">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585792315278" />
+    <state x="2213" y="242" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587434525635" />
     <state x="2135" y="220" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1584753477518">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -499,34 +558,38 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1763" y="177" width="1240" height="637" key="DiffContextDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585183534554" />
-    <state width="1878" height="350" key="GridCell.Tab.0.bottom" timestamp="1587003603530">
+    <state width="1870" height="331" key="GridCell.Tab.0.bottom" timestamp="1587434854378">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1585171158285" />
+    <state width="1878" height="350" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587082751209" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1587220747884" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="350" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587003603530" />
-    <state width="1878" height="350" key="GridCell.Tab.0.center" timestamp="1587003603529">
+    <state width="1870" height="331" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587434854378" />
+    <state width="1870" height="331" key="GridCell.Tab.0.center" timestamp="1587434854377">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="288" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
+    <state width="1878" height="350" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587082751208" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1587220747883" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.center/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="350" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587003603529" />
-    <state width="1878" height="350" key="GridCell.Tab.0.left" timestamp="1587003603528">
+    <state width="1870" height="331" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587434854377" />
+    <state width="1870" height="331" key="GridCell.Tab.0.left" timestamp="1587434854376">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="288" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
+    <state width="1878" height="350" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587082751206" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1587220747883" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580877883622" />
     <state width="1878" height="303" key="GridCell.Tab.0.left/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518977" />
-    <state width="1878" height="350" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587003603528" />
-    <state width="1878" height="350" key="GridCell.Tab.0.right" timestamp="1587003603530">
+    <state width="1870" height="331" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587434854376" />
+    <state width="1870" height="331" key="GridCell.Tab.0.right" timestamp="1587434854377">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="288" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1585171158284" />
+    <state width="1878" height="350" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587082751208" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1587220747884" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580877883623" />
     <state width="1878" height="303" key="GridCell.Tab.0.right/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1583552518978" />
-    <state width="1878" height="350" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587003603530" />
+    <state width="1870" height="331" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587434854377" />
     <state width="1878" height="337" key="GridCell.Tab.1.bottom" timestamp="1586569219901">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -567,53 +630,57 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="337" key="GridCell.Tab.2.right/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585968595390" />
+    <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1587429382363">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="219" height="457" key="HiddenNamespacesPopup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587429382363" />
     <state x="2155" y="269" key="RollbackChangesDialog" timestamp="1585018410822">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2155" y="269" key="RollbackChangesDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585018410822" />
-    <state x="1909" y="190" key="SettingsEditor" timestamp="1586572064156">
+    <state x="1909" y="190" key="SettingsEditor" timestamp="1587433327540">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="352" y="138" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1585961846346" />
     <state x="1909" y="184" key="SettingsEditor/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955096149" />
-    <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1586572064156" />
-    <state width="538" height="445" key="SwitcherDM" timestamp="1586568667894">
+    <state x="1909" y="190" key="SettingsEditor/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587433327540" />
+    <state width="538" height="591" key="SwitcherDM" timestamp="1587434739933">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="500" height="400" key="SwitcherDM/0.23.1440.837@0.23.1440.837" timestamp="1585961863315" />
-    <state width="538" height="445" key="SwitcherDM/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1586568667894" />
+    <state width="538" height="591" key="SwitcherDM/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587434739933" />
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2" timestamp="1580353145699">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1961" y="245" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1580353145699" />
-    <state x="518" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1586997844926">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1587429149368">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="518" y="242" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1585961823706" />
-    <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1586997844926" />
-    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1586565698331" />
+    <state x="518" y="242" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@0.23.1440.837" timestamp="1587171289487" />
+    <state x="2083" y="229" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587429149368" />
     <state x="2155" y="285" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585015949445">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2155" y="285" key="com.intellij.testIntegration.createTest.CreateTestDialog/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585015949445" />
-    <state x="2080" y="187" width="639" height="729" key="find.popup" timestamp="1585013526738">
+    <state x="2080" y="187" width="639" height="729" key="find.popup" timestamp="1587431212574">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="2080" y="187" width="639" height="729" key="find.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585013526738" />
+    <state x="2080" y="187" width="639" height="729" key="find.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587431212574" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1581563865263">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state width="600" height="424" key="javadoc.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1581563865263" />
-    <state x="1882" y="92" key="new project wizard" timestamp="1587002519357">
+    <state x="1882" y="92" key="new project wizard" timestamp="1587433038331">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587002519357" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1585964958503">
+    <state x="1882" y="92" key="new project wizard/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587433038331" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup" timestamp="1587429243231">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="469" y="208" width="670" height="557" key="search.everywhere.popup/0.23.1440.837@0.23.1440.837" timestamp="1585961879551" />
     <state x="2065" y="248" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1017/0.23.1440.877@1440.23.1920.1017" timestamp="1580955058307" />
-    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1585964958503" />
+    <state x="2065" y="257" width="670" height="703" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.837@1440.23.1920.1057" timestamp="1587429243231" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

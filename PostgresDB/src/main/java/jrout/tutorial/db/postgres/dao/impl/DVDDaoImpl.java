@@ -21,6 +21,7 @@ public class DVDDaoImpl implements IDVDDao {
 
     @Override
     public Actor[] getActors(String fName) {
+        System.out.println("Entering getActors for "+ fName);
         List<Actor> actorList = new ArrayList<>();
 //
 //        Actor [] actors1 = new Actor[10];
